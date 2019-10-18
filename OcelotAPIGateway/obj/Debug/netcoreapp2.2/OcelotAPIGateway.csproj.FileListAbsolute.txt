@@ -1,0 +1,17 @@
+C:\Users\thanhlet\source\repos\OcelotAPIGatewaySample\OcelotAPIGateway\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\thanhlet\source\repos\OcelotAPIGatewaySample\OcelotAPIGateway\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\thanhlet\source\repos\OcelotAPIGatewaySample\OcelotAPIGateway\bin\Debug\netcoreapp2.2\Configuration\configuration.json
+C:\Users\thanhlet\source\repos\OcelotAPIGatewaySample\OcelotAPIGateway\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\thanhlet\source\repos\OcelotAPIGatewaySample\OcelotAPIGateway\bin\Debug\netcoreapp2.2\OcelotAPIGateway.deps.json
+C:\Users\thanhlet\source\repos\OcelotAPIGatewaySample\OcelotAPIGateway\bin\Debug\netcoreapp2.2\OcelotAPIGateway.runtimeconfig.json
+C:\Users\thanhlet\source\repos\OcelotAPIGatewaySample\OcelotAPIGateway\bin\Debug\netcoreapp2.2\OcelotAPIGateway.runtimeconfig.dev.json
+C:\Users\thanhlet\source\repos\OcelotAPIGatewaySample\OcelotAPIGateway\bin\Debug\netcoreapp2.2\OcelotAPIGateway.dll
+C:\Users\thanhlet\source\repos\OcelotAPIGatewaySample\OcelotAPIGateway\bin\Debug\netcoreapp2.2\OcelotAPIGateway.pdb
+C:\Users\thanhlet\source\repos\OcelotAPIGatewaySample\OcelotAPIGateway\obj\Debug\netcoreapp2.2\OcelotAPIGateway.csprojAssemblyReference.cache
+C:\Users\thanhlet\source\repos\OcelotAPIGatewaySample\OcelotAPIGateway\obj\Debug\netcoreapp2.2\OcelotAPIGateway.RazorAssemblyInfo.cache
+C:\Users\thanhlet\source\repos\OcelotAPIGatewaySample\OcelotAPIGateway\obj\Debug\netcoreapp2.2\OcelotAPIGateway.RazorAssemblyInfo.cs
+C:\Users\thanhlet\source\repos\OcelotAPIGatewaySample\OcelotAPIGateway\obj\Debug\netcoreapp2.2\OcelotAPIGateway.AssemblyInfoInputs.cache
+C:\Users\thanhlet\source\repos\OcelotAPIGatewaySample\OcelotAPIGateway\obj\Debug\netcoreapp2.2\OcelotAPIGateway.AssemblyInfo.cs
+C:\Users\thanhlet\source\repos\OcelotAPIGatewaySample\OcelotAPIGateway\obj\Debug\netcoreapp2.2\OcelotAPIGateway.RazorTargetAssemblyInfo.cache
+C:\Users\thanhlet\source\repos\OcelotAPIGatewaySample\OcelotAPIGateway\obj\Debug\netcoreapp2.2\OcelotAPIGateway.dll
+C:\Users\thanhlet\source\repos\OcelotAPIGatewaySample\OcelotAPIGateway\obj\Debug\netcoreapp2.2\OcelotAPIGateway.pdb

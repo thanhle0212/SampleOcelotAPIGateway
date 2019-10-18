@@ -1,0 +1,16 @@
+C:\Users\thanhlet\source\repos\OcelotAPIGatewaySample\IdentityServer\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\thanhlet\source\repos\OcelotAPIGatewaySample\IdentityServer\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\thanhlet\source\repos\OcelotAPIGatewaySample\IdentityServer\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\thanhlet\source\repos\OcelotAPIGatewaySample\IdentityServer\bin\Debug\netcoreapp2.2\IdentityServer.deps.json
+C:\Users\thanhlet\source\repos\OcelotAPIGatewaySample\IdentityServer\bin\Debug\netcoreapp2.2\IdentityServer.runtimeconfig.json
+C:\Users\thanhlet\source\repos\OcelotAPIGatewaySample\IdentityServer\bin\Debug\netcoreapp2.2\IdentityServer.runtimeconfig.dev.json
+C:\Users\thanhlet\source\repos\OcelotAPIGatewaySample\IdentityServer\bin\Debug\netcoreapp2.2\IdentityServer.dll
+C:\Users\thanhlet\source\repos\OcelotAPIGatewaySample\IdentityServer\bin\Debug\netcoreapp2.2\IdentityServer.pdb
+C:\Users\thanhlet\source\repos\OcelotAPIGatewaySample\IdentityServer\obj\Debug\netcoreapp2.2\IdentityServer.csprojAssemblyReference.cache
+C:\Users\thanhlet\source\repos\OcelotAPIGatewaySample\IdentityServer\obj\Debug\netcoreapp2.2\IdentityServer.RazorAssemblyInfo.cache
+C:\Users\thanhlet\source\repos\OcelotAPIGatewaySample\IdentityServer\obj\Debug\netcoreapp2.2\IdentityServer.RazorAssemblyInfo.cs
+C:\Users\thanhlet\source\repos\OcelotAPIGatewaySample\IdentityServer\obj\Debug\netcoreapp2.2\IdentityServer.AssemblyInfoInputs.cache
+C:\Users\thanhlet\source\repos\OcelotAPIGatewaySample\IdentityServer\obj\Debug\netcoreapp2.2\IdentityServer.AssemblyInfo.cs
+C:\Users\thanhlet\source\repos\OcelotAPIGatewaySample\IdentityServer\obj\Debug\netcoreapp2.2\IdentityServer.RazorTargetAssemblyInfo.cache
+C:\Users\thanhlet\source\repos\OcelotAPIGatewaySample\IdentityServer\obj\Debug\netcoreapp2.2\IdentityServer.dll
+C:\Users\thanhlet\source\repos\OcelotAPIGatewaySample\IdentityServer\obj\Debug\netcoreapp2.2\IdentityServer.pdb

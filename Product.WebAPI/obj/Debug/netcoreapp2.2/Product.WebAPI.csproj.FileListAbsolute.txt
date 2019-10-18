@@ -1,0 +1,16 @@
+C:\Users\thanhlet\source\repos\OcelotAPIGatewaySample\Product.WebAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\thanhlet\source\repos\OcelotAPIGatewaySample\Product.WebAPI\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\thanhlet\source\repos\OcelotAPIGatewaySample\Product.WebAPI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\thanhlet\source\repos\OcelotAPIGatewaySample\Product.WebAPI\bin\Debug\netcoreapp2.2\Product.WebAPI.deps.json
+C:\Users\thanhlet\source\repos\OcelotAPIGatewaySample\Product.WebAPI\bin\Debug\netcoreapp2.2\Product.WebAPI.runtimeconfig.json
+C:\Users\thanhlet\source\repos\OcelotAPIGatewaySample\Product.WebAPI\bin\Debug\netcoreapp2.2\Product.WebAPI.runtimeconfig.dev.json
+C:\Users\thanhlet\source\repos\OcelotAPIGatewaySample\Product.WebAPI\bin\Debug\netcoreapp2.2\Product.WebAPI.dll
+C:\Users\thanhlet\source\repos\OcelotAPIGatewaySample\Product.WebAPI\bin\Debug\netcoreapp2.2\Product.WebAPI.pdb
+C:\Users\thanhlet\source\repos\OcelotAPIGatewaySample\Product.WebAPI\obj\Debug\netcoreapp2.2\Product.WebAPI.csprojAssemblyReference.cache
+C:\Users\thanhlet\source\repos\OcelotAPIGatewaySample\Product.WebAPI\obj\Debug\netcoreapp2.2\Product.WebAPI.RazorAssemblyInfo.cache
+C:\Users\thanhlet\source\repos\OcelotAPIGatewaySample\Product.WebAPI\obj\Debug\netcoreapp2.2\Product.WebAPI.RazorAssemblyInfo.cs
+C:\Users\thanhlet\source\repos\OcelotAPIGatewaySample\Product.WebAPI\obj\Debug\netcoreapp2.2\Product.WebAPI.AssemblyInfoInputs.cache
+C:\Users\thanhlet\source\repos\OcelotAPIGatewaySample\Product.WebAPI\obj\Debug\netcoreapp2.2\Product.WebAPI.AssemblyInfo.cs
+C:\Users\thanhlet\source\repos\OcelotAPIGatewaySample\Product.WebAPI\obj\Debug\netcoreapp2.2\Product.WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\thanhlet\source\repos\OcelotAPIGatewaySample\Product.WebAPI\obj\Debug\netcoreapp2.2\Product.WebAPI.dll
+C:\Users\thanhlet\source\repos\OcelotAPIGatewaySample\Product.WebAPI\obj\Debug\netcoreapp2.2\Product.WebAPI.pdb

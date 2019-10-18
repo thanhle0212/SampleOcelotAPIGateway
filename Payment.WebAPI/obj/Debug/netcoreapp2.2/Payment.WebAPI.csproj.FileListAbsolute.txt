@@ -1,0 +1,15 @@
+C:\Users\thanhlet\source\repos\OcelotAPIGatewaySample\Payment.WebAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\thanhlet\source\repos\OcelotAPIGatewaySample\Payment.WebAPI\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\thanhlet\source\repos\OcelotAPIGatewaySample\Payment.WebAPI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\thanhlet\source\repos\OcelotAPIGatewaySample\Payment.WebAPI\bin\Debug\netcoreapp2.2\Payment.WebAPI.deps.json
+C:\Users\thanhlet\source\repos\OcelotAPIGatewaySample\Payment.WebAPI\bin\Debug\netcoreapp2.2\Payment.WebAPI.runtimeconfig.json
+C:\Users\thanhlet\source\repos\OcelotAPIGatewaySample\Payment.WebAPI\bin\Debug\netcoreapp2.2\Payment.WebAPI.runtimeconfig.dev.json
+C:\Users\thanhlet\source\repos\OcelotAPIGatewaySample\Payment.WebAPI\bin\Debug\netcoreapp2.2\Payment.WebAPI.dll
+C:\Users\thanhlet\source\repos\OcelotAPIGatewaySample\Payment.WebAPI\bin\Debug\netcoreapp2.2\Payment.WebAPI.pdb
+C:\Users\thanhlet\source\repos\OcelotAPIGatewaySample\Payment.WebAPI\obj\Debug\netcoreapp2.2\Payment.WebAPI.RazorAssemblyInfo.cache
+C:\Users\thanhlet\source\repos\OcelotAPIGatewaySample\Payment.WebAPI\obj\Debug\netcoreapp2.2\Payment.WebAPI.RazorAssemblyInfo.cs
+C:\Users\thanhlet\source\repos\OcelotAPIGatewaySample\Payment.WebAPI\obj\Debug\netcoreapp2.2\Payment.WebAPI.AssemblyInfoInputs.cache
+C:\Users\thanhlet\source\repos\OcelotAPIGatewaySample\Payment.WebAPI\obj\Debug\netcoreapp2.2\Payment.WebAPI.AssemblyInfo.cs
+C:\Users\thanhlet\source\repos\OcelotAPIGatewaySample\Payment.WebAPI\obj\Debug\netcoreapp2.2\Payment.WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\thanhlet\source\repos\OcelotAPIGatewaySample\Payment.WebAPI\obj\Debug\netcoreapp2.2\Payment.WebAPI.dll
+C:\Users\thanhlet\source\repos\OcelotAPIGatewaySample\Payment.WebAPI\obj\Debug\netcoreapp2.2\Payment.WebAPI.pdb
